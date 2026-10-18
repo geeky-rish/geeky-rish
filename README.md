@@ -2,18 +2,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/geeky-rish/geeky-rish/main/assets/banner.svg" alt="Rishi P Kulkarni: AI Systems, Data Engineering, Efficient AI" width="100%"/>
+<img src="https://raw.githubusercontent.com/geeky-rish/geeky-rish/main/assets/banner.svg?v=2" alt="Rishi P Kulkarni: AI Systems, Data Engineering, Efficient AI" width="100%"/>
 
 <p>
-  <a href="https://linkedin.com/in/rishipkulkarni"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/TheGeeksGuy"><img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:rishipkulkarni@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/rishipkulkarni"><img src="https://img.shields.io/badge/LinkedIn-Connect-D1A93A?style=for-the-badge&logo=linkedin&logoColor=D1A93A&labelColor=15130F" alt="LinkedIn"/></a>
+  <a href="https://x.com/TheGeeksGuy"><img src="https://img.shields.io/badge/X-Follow-D1A93A?style=for-the-badge&logo=x&logoColor=D1A93A&labelColor=15130F" alt="X"/></a>
+  <a href="mailto:rishipkulkarni@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D1A93A?style=for-the-badge&logo=gmail&logoColor=D1A93A&labelColor=15130F" alt="Email"/></a>
 </p>
 
 </div>
 
 I build **data pipelines, backend systems and efficient AI**, and I measure all of it.
-B.E. Computer Science (AI) at **KLE Technological University** · CGPA 8.68.
 
 > [!TIP]
 > Open to collaborating on open-source, data engineering and AI systems projects.
@@ -138,8 +137,8 @@ flowchart LR
 ## 🏆 Recognition
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Best_Paper-ComSIA_2026-FFD700?style=for-the-badge&logo=springer&logoColor=black" alt="Best Paper ComSIA 2026"/>
-  <img src="https://img.shields.io/badge/Global_Rank_15-WiDS_Datathon_2024-2563EB?style=for-the-badge" alt="WiDS Datathon 2024 Global Rank 15"/>
+  <img src="https://img.shields.io/badge/Best_Paper-ComSIA_2026-D1A93A?style=for-the-badge&logo=springer&logoColor=D1A93A&labelColor=15130F" alt="Best Paper ComSIA 2026"/>
+  <img src="https://img.shields.io/badge/Global_Rank_15-WiDS_Datathon_2024-D1A93A?style=for-the-badge&labelColor=15130F" alt="WiDS Datathon 2024 Global Rank 15"/>
 </p>
 
 - 🥇 **Best Paper Award, ComSIA 2026 (Springer)**: first author of *Reinforcement Learning for Dynamic Pricing*
@@ -182,14 +181,14 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-**☁️ AWS Student Builder Groups**: Chapter Lead, KLE Technological University
+**☁️ AWS Student Builder Groups**: Chapter Lead
 - Hands-on workshops on EC2, S3, Lambda and serverless
 - Mentored 50+ students through real AWS deployments
 
 </td>
 <td width="50%" valign="top">
 
-**🌐 Google Student Ambassador**: KLE Technological University
+**🌐 Google Student Ambassador**
 - Represented Google developer programs on campus
 - Organized technical learning activities
 
