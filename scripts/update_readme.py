@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Refresh the dynamic sections of the profile README.
 
-Fills the blocks between
+Fills the block between
     <!-- ACTIVITY:START --> ... <!-- ACTIVITY:END -->
-    <!-- REPOS:START -->    ... <!-- REPOS:END -->
 using the public GitHub API. Stdlib only, no third-party services.
 If an API call fails, the existing block is left untouched.
 """
@@ -41,27 +40,6 @@ def fmt_date(iso):
 def clean(text, limit=90):
     text = (text or "").replace("|", "\\|").replace("\n", " ").strip()
     return text if len(text) <= limit else text[: limit - 1].rstrip() + "…"
-
-
-# ---------- recent repos ----------
-def repos_block():
-    repos = get(f"/users/{USER}/repos?type=owner&sort=pushed&per_page=100")
-    keep = [
-        r for r in repos
-        if not r["fork"] and not r["archived"] and r["name"].lower() != USER.lower()
-    ][:6]
-    if not keep:
-        return "_Nothing public yet._"
-    rows = [
-        "| Repo | What it is | Language | ⭐ | Last push |",
-        "|---|---|---|---|---|",
-    ]
-    for r in keep:
-        rows.append(
-            f"| [**{r['name']}**]({r['html_url']}) | {clean(r['description'])} "
-            f"| {r['language'] or '—'} | {r['stargazers_count']} | {fmt_date(r['pushed_at'])} |"
-        )
-    return "\n".join(rows)
 
 
 # ---------- recent activity ----------
@@ -121,7 +99,7 @@ def main():
     with open(README, encoding="utf-8") as f:
         original = f.read()
     text = original
-    for tag, fn in (("ACTIVITY", activity_block), ("REPOS", repos_block)):
+    for tag, fn in (("ACTIVITY", activity_block),):
         try:
             text = replace_block(text, tag, fn())
             print(f"[ok]   {tag}")

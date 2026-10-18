@@ -49,25 +49,8 @@ Refreshed every 6 hours by a GitHub Action in this repo. No third-party servers.
 **Latest activity**
 
 <!-- ACTIVITY:START -->
-- ⬆️ Pushed to [DailyForge](https://github.com/geeky-rish/DailyForge) (`main`) · <sub>18 Oct 2026</sub>
-- 🔀 Merged PR #6 in [Labs](https://github.com/cloud-devops-kletech/Labs) · <sub>18 Oct 2026</sub>
-- 🔀 Opened PR #6 in [Labs](https://github.com/cloud-devops-kletech/Labs) · <sub>18 Oct 2026</sub>
-- ⬆️ Pushed to [Rishi-Kulkarni-ml-zoomcamp-2026](https://github.com/geeky-rish/Rishi-Kulkarni-ml-zoomcamp-2026) (`main`) · <sub>16 Oct 2026</sub>
-- ⬆️ Pushed to [profile](https://github.com/geeky-rish/profile) (`main`) · <sub>14 Oct 2026</sub>
+_Loading on first workflow run…_
 <!-- ACTIVITY:END -->
-
-**Recently pushed repos**
-
-<!-- REPOS:START -->
-| Repo | What it is | Language | ⭐ | Last push |
-|---|---|---|---|---|
-| [**DailyForge**](https://github.com/geeky-rish/DailyForge) |  | Python | 0 | 18 Oct 2026 |
-| [**Rishi-Kulkarni-ml-zoomcamp-2026**](https://github.com/geeky-rish/Rishi-Kulkarni-ml-zoomcamp-2026) |  | Jupyter Notebook | 0 | 16 Oct 2026 |
-| [**profile**](https://github.com/geeky-rish/profile) |  | HTML | 0 | 14 Oct 2026 |
-| [**NEURAL-COLLAPSE**](https://github.com/geeky-rish/NEURAL-COLLAPSE) |  | Python | 1 | 10 Oct 2026 |
-| [**watchman**](https://github.com/geeky-rish/watchman) |  | Python | 1 | 8 Oct 2026 |
-| [**adaptillm**](https://github.com/geeky-rish/adaptillm) |  | Kotlin | 17 | 8 Oct 2026 |
-<!-- REPOS:END -->
 
 ---
 
