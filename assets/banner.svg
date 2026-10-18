@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Rishi P Kulkarni: AI Systems, Data Engineering, Efficient AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36BCF7"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glowV" cx="0.85" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.05" cy="1" r="0.55">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="280" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+    .sans { font-family: 'Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif; }
+    .name { font-size: 56px; font-weight: 700; fill: url(#accent); letter-spacing: -1px; }
+    .sub  { font-size: 22px; fill: #cbd5e1; }
+    .dim  { font-size: 15px; fill: #64748b; }
+    .l    { font-size: 20px; fill: #36BCF7; opacity: 0; animation: cycle 12s infinite; }
+    .l1   { opacity: 1; animation-delay: 0s; }
+    .l2   { animation-delay: 3s; }
+    .l3   { animation-delay: 6s; }
+    .l4   { animation-delay: 9s; }
+    .n    { fill: #36BCF7; animation: pulse 3s ease-in-out infinite; }
+    .e    { stroke: #94a3b8; stroke-opacity: 0.14; stroke-width: 1; }
+    .bar  { fill: url(#accent); }
+    @keyframes cycle {
+      0%   { opacity: 0; transform: translateY(8px); }
+      4%   { opacity: 1; transform: translateY(0); }
+      22%  { opacity: 1; transform: translateY(0); }
+      26%  { opacity: 0; transform: translateY(-8px); }
+      100% { opacity: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; }
+      50%      { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .l, .n { animation: none; }
+      .l1 { opacity: 1; }
+      .n  { opacity: 0.7; }
+    }
+  </style>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
+    <rect width="1200" height="280" fill="url(#glowV)"/>
+    <rect width="1200" height="280" fill="url(#glowC)"/>
+
+    <!-- neural-net motif -->
+    <g>
+      <!-- layer 1 -> 2 -->
+      <g class="e">
+        <line x1="880" y1="90"  x2="980" y2="70"/><line x1="880" y1="90"  x2="980" y2="115"/><line x1="880" y1="90"  x2="980" y2="165"/><line x1="880" y1="90"  x2="980" y2="210"/>
+        <line x1="880" y1="140" x2="980" y2="70"/><line x1="880" y1="140" x2="980" y2="115"/><line x1="880" y1="140" x2="980" y2="165"/><line x1="880" y1="140" x2="980" y2="210"/>
+        <line x1="880" y1="190" x2="980" y2="70"/><line x1="880" y1="190" x2="980" y2="115"/><line x1="880" y1="190" x2="980" y2="165"/><line x1="880" y1="190" x2="980" y2="210"/>
+        <!-- layer 2 -> 3 -->
+        <line x1="980" y1="70"  x2="1080" y2="110"/><line x1="980" y1="70"  x2="1080" y2="170"/>
+        <line x1="980" y1="115" x2="1080" y2="110"/><line x1="980" y1="115" x2="1080" y2="170"/>
+        <line x1="980" y1="165" x2="1080" y2="110"/><line x1="980" y1="165" x2="1080" y2="170"/>
+        <line x1="980" y1="210" x2="1080" y2="110"/><line x1="980" y1="210" x2="1080" y2="170"/>
+      </g>
+      <circle class="n" cx="880" cy="90"  r="6" style="animation-delay:0s"/>
+      <circle class="n" cx="880" cy="140" r="6" style="animation-delay:.5s"/>
+      <circle class="n" cx="880" cy="190" r="6" style="animation-delay:1s"/>
+      <circle class="n" cx="980" cy="70"  r="6" style="animation-delay:1.5s"/>
+      <circle class="n" cx="980" cy="115" r="6" style="animation-delay:2s"/>
+      <circle class="n" cx="980" cy="165" r="6" style="animation-delay:2.5s"/>
+      <circle class="n" cx="980" cy="210" r="6" style="animation-delay:.8s"/>
+      <circle class="n" cx="1080" cy="110" r="7" style="animation-delay:1.2s"/>
+      <circle class="n" cx="1080" cy="170" r="7" style="animation-delay:1.8s"/>
+    </g>
+
+    <text x="64" y="76" class="mono dim">~/geeky-rish $ whoami</text>
+    <text x="64" y="144" class="sans name">Rishi P Kulkarni</text>
+    <text x="64" y="184" class="sans sub">AI Systems  ·  Data Engineering  ·  Efficient AI</text>
+
+    <text x="64" y="232" class="mono l l1">▸ Building data pipelines and backend systems</text>
+    <text x="64" y="232" class="mono l l2">▸ Optimizing LLM inference for edge devices</text>
+    <text x="64" y="232" class="mono l l3">▸ Exploring AI systems and distributed computing</text>
+    <text x="64" y="232" class="mono l l4">▸ Turning ideas into working software</text>
+
+    <rect class="bar" x="0" y="276" width="1200" height="4"/>
+  </g>
+</svg>
