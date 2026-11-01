@@ -48,11 +48,11 @@ Refreshed every 6 hours by a GitHub Action in this repo. No third-party servers.
 **Latest activity**
 
 <!-- ACTIVITY:START -->
-- 🍴 Forked [order-tracker](https://github.com/alexeygrigorev/order-tracker) · <sub>31 Oct 2026</sub>
-- ⬆️ Pushed to [flowTodo](https://github.com/geeky-rish/flowTodo) (`main`) · <sub>25 Oct 2026</sub>
-- ⬆️ Pushed to [Rishi-Kulkarni-ml-zoomcamp-2026](https://github.com/geeky-rish/Rishi-Kulkarni-ml-zoomcamp-2026) (`main`) · <sub>22 Oct 2026</sub>
-- ⬆️ Pushed to [DailyForge](https://github.com/geeky-rish/DailyForge) (`main`) · <sub>18 Oct 2026</sub>
-- ⬆️ Pushed to [geeky-rish](https://github.com/geeky-rish/geeky-rish) (`main`) · <sub>18 Oct 2026</sub>
+- 🔀 Merged PR #14 in [site](https://github.com/rika-tech/site) · <sub>1 Nov 2026</sub>
+- 🔀 Opened PR #14 in [site](https://github.com/rika-tech/site) · <sub>1 Nov 2026</sub>
+- 🔀 Merged PR #13 in [site](https://github.com/rika-tech/site) · <sub>1 Nov 2026</sub>
+- 🔀 Opened PR #13 in [site](https://github.com/rika-tech/site) · <sub>1 Nov 2026</sub>
+- 🔀 Merged PR #12 in [site](https://github.com/rika-tech/site) · <sub>1 Nov 2026</sub>
 <!-- ACTIVITY:END -->
 
 ---
