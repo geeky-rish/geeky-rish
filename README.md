@@ -48,8 +48,8 @@ Refreshed every 6 hours by a GitHub Action in this repo. No third-party servers.
 **Latest activity**
 
 <!-- ACTIVITY:START -->
-- ⬆️ Pushed to [agentic_ai_project](https://github.com/VII-Sem-Agentic-AI-2026/agentic_ai_project) (`main`) · <sub>24 Nov 2026</sub>
 - ⬆️ Pushed to [agentic_ai_project](https://github.com/geeky-rish/agentic_ai_project) (`main`) · <sub>24 Nov 2026</sub>
+- ⬆️ Pushed to [agentic_ai_project](https://github.com/VII-Sem-Agentic-AI-2026/agentic_ai_project) (`main`) · <sub>24 Nov 2026</sub>
 - 🔀 Merged PR #1 in [agentic_ai_project](https://github.com/VII-Sem-Agentic-AI-2026/agentic_ai_project) · <sub>24 Nov 2026</sub>
 - 🔀 Opened PR #1 in [agentic_ai_project](https://github.com/VII-Sem-Agentic-AI-2026/agentic_ai_project) · <sub>24 Nov 2026</sub>
 - 🍴 Forked [agentic_ai_project](https://github.com/VII-Sem-Agentic-AI-2026/agentic_ai_project) · <sub>24 Nov 2026</sub>
